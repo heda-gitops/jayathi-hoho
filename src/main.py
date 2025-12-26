@@ -3,7 +3,7 @@ from pathlib import Path
 
 # Dummy experiment logic
 accuracy = 0.85
-
+print("yoo")
 outputs_dir = Path("outputs")
 outputs_dir.mkdir(exist_ok=True)
 
